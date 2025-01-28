@@ -112,10 +112,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
+#Thank You 
+#Done By Manikandan
 Let me know if you'd like to make any further adjustments!
