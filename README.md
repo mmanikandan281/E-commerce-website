@@ -111,7 +111,10 @@ git clone https://github.com/mmanikandan281/E-commerce-website.git
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please ensure that your code follows best practices, including writing tests for new features.
 
 ---
+## **Contact**
+**Manikandan M**  
+Email: mmanikandan281@gmail.com
 
-#Thank You 
-#Done By Manikandan
+GitHub: [Manikandan-M](https://github.com/mmanikandan281)  
+
 Let me know if you'd like to make any further adjustments!
