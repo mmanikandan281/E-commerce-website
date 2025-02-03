@@ -1,8 +1,11 @@
-Here's the updated `README.md` with the GitHub clone link instead of the code example:
 
----
 
 # E-Commerce Website
+
+
+![Screenshot (40)](https://github.com/user-attachments/assets/50eb08c6-9a78-4a2c-9193-1bd9769bd89a)
+
+
 
 This is a fully functional eCommerce website built using React. The application allows users to browse products, view details, manage a shopping cart, and apply theme changes. The project utilizes React Router for navigation, Bootstrap for responsive design, and integrates a context API for theme management.
 
